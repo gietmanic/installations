@@ -78,7 +78,7 @@ Dieses Skript installiert und konfiguriert einen K3s Kubernetes-Cluster auf eine
 1. Lade das Skript direkt herunter:
 
    ```bash
-   curl -o install_k3s.sh https://raw.githubusercontent.com/dein-github-repo/main/server/k3s/install_k3s.sh
+   curl -o install_k3s.sh https://raw.githubusercontent.com/gietmanic/installations/refs/heads/main/server/k3s/install_k3s.sh
    ```
 
 2. Mache das Skript ausführbar:
